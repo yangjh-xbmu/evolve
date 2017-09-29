@@ -7,3 +7,5 @@
     * [出售时间的铁律](IronLaw.md)
     * [最宝贵的财富](Precious.md)
 
+* [少有人走的路](aRoadLessTraveled.md)
+
