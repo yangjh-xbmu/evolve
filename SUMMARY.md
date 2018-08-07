@@ -8,6 +8,7 @@
     * [最宝贵的财富](Precious.md)
 
 * [少有人走的路](aRoadLessTraveled.md)
+* [写出我心](writingDownTheBones.md)
 * [知识管理](knowledgeManagenent.md)
 * [如何读书](reading.md)
 
