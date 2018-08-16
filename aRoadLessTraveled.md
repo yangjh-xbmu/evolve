@@ -1,6 +1,6 @@
 # 少有人走的路
 
-![https://img3.doubanio.com/view/subject/l/public/s2144391.jpg](https://img3.doubanio.com/view/subject/l/public/s2144391.jpg)
+![少有人走的路](https://img3.doubanio.com/view/subject/l/public/s2144391.jpg)
 
 ## 问题和痛苦
 
