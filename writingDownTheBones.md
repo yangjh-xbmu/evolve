@@ -1,5 +1,7 @@
 # 写出我心
 
+![写出我心封面][1]
+
 ## 序言
 
 Accept loss forever
@@ -181,3 +183,5 @@ Be in love with your life
 ## 重读与重写
 
 写完一个作品之后，最好稍等一段时间再重新阅读，时间能让你得以保持距离，客观地看自己的作品。
+
+[1]: https://img3.doubanio.com/view/subject/l/public/s28830962.jpg
