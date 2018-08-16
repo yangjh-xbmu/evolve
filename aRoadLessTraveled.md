@@ -1,5 +1,7 @@
 # 少有人走的路
 
+![https://img3.doubanio.com/view/subject/l/public/s2144391.jpg](https://img3.doubanio.com/view/subject/l/public/s2144391.jpg)
+
 ## 问题和痛苦
 
 人生苦海无边，这是一个伟大的真理，一旦领悟了这句话的真谛，我们就能从苦难中解脱出来，因为，只要我们想通了这一点，并真正接收了人生苦难重重的事实，那么，我们就会释然，再也不会对人生的苦难耿耿于怀了。
