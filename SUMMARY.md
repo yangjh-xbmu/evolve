@@ -13,4 +13,4 @@
 * [学习之道](aMindForNumbers.md)
 * [知识管理](knowledgeManagenent.md)
 * [如何读书](reading.md)
-
+* [大学应该知道的N件事](theThingsYouShouldKnowAboutUniversity.md)

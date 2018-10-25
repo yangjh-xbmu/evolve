@@ -1,4 +1,3 @@
-git checkout master
 gitbook build
 git add .
 git commit -m $1
