@@ -15,3 +15,5 @@
 * [如何读书](reading.md)
 * [大学应该知道的N件事](theThingsYouShouldKnowAboutUniversity.md)
 * [Scrum精髓](essentailScrum.md)
+  * [Scrum框架](es/frame.md)
+  * [敏捷原则](es/principle.md)
